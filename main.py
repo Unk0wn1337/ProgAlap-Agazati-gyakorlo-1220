@@ -3,4 +3,6 @@
 #import sorozat
 #sorozat.masosdikFeladat()
 import  hatoslotto
-hatoslotto.hatosLotto()
+hatoslotto.harmasAB()
+hatoslotto.harmasC()
+hatoslotto.harmasD()
